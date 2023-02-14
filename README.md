@@ -1,1 +1,1 @@
-These are some of the visual projects and animations I made in Java Processing. Watch the videos or download and run the files on Processing to see for yourself.
+These are some of the Processing projects while in high school and college. Watch the videos or download and run the files on Processing to see for yourself.
