@@ -1,4 +1,4 @@
-From 2018. My robotics team got to go to FRC Championships in Detroit. On the 15-hour bus ride, I discovered breadth-first search could be used to find the shortest path between two points. I was pretty excited by this and threw together a little demonstration. 
+From 2018. On a 15-hour bus ride, I discovered breadth-first search could be used to find the shortest path between two points. I was pretty excited by this and threw together a little demonstration. 
 
 First draw the maze. When you're done, press space and select the start and end points. The search automatically begins after doing so.
 
