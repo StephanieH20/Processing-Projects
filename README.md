@@ -1,3 +1,3 @@
-These are some of the Processing projects I made in high school and college. Watch the videos or download and run the files on Processing to see what they do.
+These are some of the Processing projects I made during high school and college. Each project should have a small video demo. 
 
-My personal favorites are Path Finder, Differential Surfing, and Curve Shortening.
+If you're short on time, I'd recommend checking out my favorites: Path Finder, Differential Surfing, Curve Shortening.
