@@ -1,4 +1,4 @@
-From 2022, after hearing about Grigori Perelman's infamous solution to the Poincare Conjecture. His proof used something called Ricci Flow. This project provides a simple illustration in 2D, which could simply be referred to as curve-shortening flow. The algorithm essentially "smooths" out a closed curve by incrementally minimizing curvature around the curve, shrinking it down into a circle and then a point. 
+From 2022, after hearing about Grigori Perelman's infamous solution to the Poincare Conjecture. His proof used something called Ricci Flow. This project provides a simple illustration in 2D, in which this could simply be referred to as curve-shortening flow. The algorithm essentially "smooths" out a closed curve by incrementally minimizing curvature around the curve, shrinking it down into a circle and then a point. 
 
 Draw a closed curve then press space to start curve shortening. 
 
